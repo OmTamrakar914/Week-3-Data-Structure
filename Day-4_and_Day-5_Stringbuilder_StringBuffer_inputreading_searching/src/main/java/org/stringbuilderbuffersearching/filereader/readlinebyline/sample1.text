@@ -1,0 +1,7 @@
+Java StringBuilder and StringBuffer
+In Java, String is immutable, meaning every modification creates a new object in memory. To handle frequent string manipulations efficiently, Java provides StringBuilder and StringBuffer, which are mutable alternatives to String.
+Understanding StringBuilder
+Why StringBuilder?
+It is mutable, meaning it modifies the same object instead of creating a new one.
+Fast because it is not synchronized (no locking mechanisms).
+Ideal for single-threaded applications.
