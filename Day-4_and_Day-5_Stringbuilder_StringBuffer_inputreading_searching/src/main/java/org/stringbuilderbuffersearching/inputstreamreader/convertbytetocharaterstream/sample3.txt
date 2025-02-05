@@ -1,0 +1,4 @@
+Inefficiency for Large Data:
+Linear search can be inefficient for large datasets since it may need to traverse the entire list in the worst case. For larger data, algorithms like Binary Search (for sorted data) or Hashing are often preferred due to their better time complexity.
+Slow Performance in Comparison to Other Algorithms:
+Since it checks each element sequentially, its performance deteriorates with the size of the list. This makes it less suitable for large datasets, especially when faster alternatives exist.
